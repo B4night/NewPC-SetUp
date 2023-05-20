@@ -33,3 +33,16 @@
 - vs / vscode
 - vmware或wsl二选一
 - xshell
+- postman (测试接口)
+- Potplayer (强大的音视频)
+- git
+- FileZilla (本地和服务器之间文件互传)
+
+# Optional
+
+- MobaXTerm (enhanced xshell)
+- wireshark (抓包工具)
+- 阿里云盘, 百度网盘
+
+
+
